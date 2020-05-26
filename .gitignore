@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+api/__pycache__/api.cpython-38.pyc
+api/venv/pyvenv.cfg
+api/venv/Lib/site-packages/
+
+api/venv/Scripts/
