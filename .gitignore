@@ -26,3 +26,6 @@ api/venv/pyvenv.cfg
 api/venv/Lib/site-packages/
 
 api/venv/Scripts/
+
+venv
+__pycache__
